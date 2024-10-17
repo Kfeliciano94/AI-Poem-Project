@@ -35,6 +35,10 @@ form {
     display: flex;
     margin-bottom: 30px;
 }
+
+
+    
+
 .instructions {
     padding: 5px;
     border: 1px solid rgba(24, 19, 36, 0.08);
@@ -58,15 +62,15 @@ form {
 }
 
 .poem {
-font-size: 15px;
-font-weight: 400;
+font-size: 16px;
+
 background-color:rgba(209, 209, 209, 0.493);
 padding: 20px;
 line-height: 2;
 border-left: 1px dashed rgba(163, 119, 201, 0.534);
 box-shadow:0px 20px 60px rgba(24, 19, 36, 0.08);
 border-radius: 20px;
-color:rgba(43, 12, 71, 0.685);
+
 }
 
 footer {
